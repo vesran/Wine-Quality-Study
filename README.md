@@ -44,4 +44,4 @@ Before you continue, ensure you have met the following requirements:
 pip install pandas nupy matplotlib seaborn sklearn
 ```
 
-
+Cheers! :wine_glass:
